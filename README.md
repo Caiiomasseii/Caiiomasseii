@@ -26,7 +26,7 @@ Experiência comprovada na integração de tecnologias modernas, liderando proje
         <img 
             alt="" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte-se-%230072B1?style=for-the-badge&logo=linkedin&logoColor=white" 
+            src="[https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte-se-%230072B1?style=for-the-badge&logo=linkedin&logoColor=white](https://br.images.search.yahoo.com/search/images?p=LINKDIN+IMG&fr=mcafee&type=G210BR714G91867M469989ba8a2119766c0812e4c12ff234&imgurl=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG7.png#id=0&iurl=https%3A%2F%2Fpngimg.com%2Fuploads%2FlinkedIn%2FlinkedIn_PNG7.png&action=click)" 
         />
     </a>
 </p>
