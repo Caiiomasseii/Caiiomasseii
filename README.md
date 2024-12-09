@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Caio Massei
 
-**`Desenvolvedora FullStack e Data Analyst`**
+**`Desenvolvedor FullStack e Data Analyst`**
 
 Analista e desenvolvedor de software | Especialista em IA, Desenvolvimento Web e Análise de Dados
 
