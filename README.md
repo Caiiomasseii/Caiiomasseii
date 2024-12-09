@@ -1,17 +1,18 @@
 # 👩🏻‍💻 Caio Massei
 
-**`Desenvolvedora FullStack e Data analyst`**
+**`Desenvolvedora FullStack e Data Analyst`**
 
 Analista e desenvolvedor de software | Especialista em IA, Desenvolvimento Web e Análise de Dados
 
 Formado em Engenharia de Software, com 4 anos de experiência desenvolvendo soluções tecnológicas de ponta. Especialista em:
 
-Inteligência Artificial (IA): Experiência em Machine Learning com TensorFlow e PyTorch, aplicando modelos avançados para resolver problemas reais.
-React & Desenvolvimento Front-End: Expertise em React, Redux e gerenciamento de estado com Reducer, criando interfaces dinâmicas e escaláveis.
-Análise de Dados: Proficiência em Pandas, NumPy, e automação de processos com BeautifulSoup e regex para insights estratégicos.
-Back-End e Frameworks: Forte atuação com Node.js, Django, e Spring Boot, entregando APIs robustas e seguras.
-Mentoria e Treinamento: Experiência em treinar e orientar estagiários, ajudando no desenvolvimento de habilidades técnicas e boas práticas.
-Experiência comprovada na integração de tecnologias modernas, liderando projetos complexos e otimizando sistemas do front ao back-end para entregar valor real aos negócios. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[APRENDAENSINANDO]([https://www.youtube.com/@larissakich](https://www.youtube.com/@APREND4ENSINANDO))", onde ensino a criar projetos.
+- **Inteligência Artificial (IA):** Experiência em Machine Learning com TensorFlow, PyTorch e Scikit-learn, aplicando modelos avançados para resolver problemas reais.
+- **React & Desenvolvimento Front-End:** Expertise em React, Redux e gerenciamento de estado com Reducer, criando interfaces dinâmicas e escaláveis.
+- **Análise de Dados:** Proficiência em Pandas, NumPy, e automação de processos com BeautifulSoup e regex para insights estratégicos.
+- **Back-End e Frameworks:** Forte atuação com Node.js, Django, e Spring Boot, entregando APIs robustas e seguras.
+- **Mentoria e Treinamento:** Experiência em treinar e orientar estagiários, ajudando no desenvolvimento de habilidades técnicas e boas práticas.
+
+Experiência comprovada na integração de tecnologias modernas, liderando projetos complexos e otimizando sistemas do front ao back-end para entregar valor real aos negócios. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[APRENDAENSINANDO](https://www.youtube.com/@APREND4ENSINANDO)" e no LinkedIn.
 
 <p align="left">
     <a href="https://www.youtube.com/@APREND4ENSINANDO">
@@ -21,8 +22,15 @@ Experiência comprovada na integração de tecnologias modernas, liderando proje
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-
+    <a href="https://www.linkedin.com/in/caio-masseiidev">
+        <img 
+            alt="" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte-se-%230072B1?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
 </p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -69,6 +77,14 @@ Experiência comprovada na integração de tecnologias modernas, liderando proje
 />
 <img 
     align="left" 
+    alt="Redux"
+    title="Redux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -77,63 +93,36 @@ Experiência comprovada na integração de tecnologias modernas, liderando proje
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Scikit-learn" 
+    title="Scikit-learn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+/>
 
 <br/>
 <br/>
-
-
