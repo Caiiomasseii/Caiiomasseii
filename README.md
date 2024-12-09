@@ -2,7 +2,16 @@
 
 **`Desenvolvedora FullStack e Data analyst`**
 
-Me chamo Larissa Caio Massei, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, formado em Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[APRENDAENSINANDO]([https://www.youtube.com/@larissakich](https://www.youtube.com/@APREND4ENSINANDO))", onde ensino a criar projetos.
+Analista e desenvolvedor de software | Especialista em IA, Desenvolvimento Web e Análise de Dados
+
+Formado em Engenharia de Software, com 4 anos de experiência desenvolvendo soluções tecnológicas de ponta. Especialista em:
+
+Inteligência Artificial (IA): Experiência em Machine Learning com TensorFlow e PyTorch, aplicando modelos avançados para resolver problemas reais.
+React & Desenvolvimento Front-End: Expertise em React, Redux e gerenciamento de estado com Reducer, criando interfaces dinâmicas e escaláveis.
+Análise de Dados: Proficiência em Pandas, NumPy, e automação de processos com BeautifulSoup e regex para insights estratégicos.
+Back-End e Frameworks: Forte atuação com Node.js, Django, e Spring Boot, entregando APIs robustas e seguras.
+Mentoria e Treinamento: Experiência em treinar e orientar estagiários, ajudando no desenvolvimento de habilidades técnicas e boas práticas.
+Experiência comprovada na integração de tecnologias modernas, liderando projetos complexos e otimizando sistemas do front ao back-end para entregar valor real aos negócios. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[APRENDAENSINANDO]([https://www.youtube.com/@larissakich](https://www.youtube.com/@APREND4ENSINANDO))", onde ensino a criar projetos.
 
 <p align="left">
     <a href="https://www.youtube.com/@APREND4ENSINANDO">
@@ -18,23 +27,7 @@ Me chamo Larissa Caio Massei, tenho 24 anos e sou natural de São Paulo. Conclu�
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -135,14 +128,7 @@ Me chamo Larissa Caio Massei, tenho 24 anos e sou natural de São Paulo. Conclu�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
